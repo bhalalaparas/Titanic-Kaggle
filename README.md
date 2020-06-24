@@ -1,8 +1,8 @@
-# Titanic-Kaggel
+# Titanic-Kaggle
 Titanic Kaggel Competition- Top 9% on LeaderBoard
 
 ## Source:
-[Kaggel Competition](https://www.kaggle.com/c/titanic)
+[Kaggle Competition](https://www.kaggle.com/c/titanic)
 
 
 ### Libraries:
